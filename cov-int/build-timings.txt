@@ -1,0 +1,26 @@
+timer                                        ms      calls
+----------------------------------------------------------
+cov-build                                  4999          1
+  add_string_to_table                         0         73
+  addEmitFileName                             0          1
+    addEmitFileName                           0          1
+      addEmitFileName                         0          1
+        addEmitFileName                       0          1
+          addEmitFileName                     0          1
+            addEmitFileName                   0          1
+              addEmitFileName                 0          1
+                addEmitFileName               0          1
+                  addEmitFileName             0          1
+                    addEmitFileName           0          1
+  Prepare capture                             1          1
+  Running build command                    4797          1
+  TUInfo::getPrimarySFRow                     0          1
+
+activity                                     ms      calls
+----------------------------------------------------------
+cov-build                                  4999          1
+add_string_to_table                           0         73
+addEmitFileName                               0         10
+Prepare capture                               1          1
+Running build command                      4797          1
+TUInfo::getPrimarySFRow                       0          1
